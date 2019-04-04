@@ -14,6 +14,7 @@
 ## Binary Analysis
 * https://codisec.com/veles/ - Veles (hex, grammar, [gl-based visualization](https://codisec.com/binary-data-visualization/))
 * http://binvis.io - Online binary visualization
+* https://github.com/russlank/BinView - BinView
 
 ### Misc
 * https://trailofbits.github.io/ctf/ - CTF Field Guide
