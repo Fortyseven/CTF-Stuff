@@ -7,6 +7,10 @@
 ## Text Manipulation
 * https://gchq.github.io/CyberChef/
 
+## Image Analysis
+* http://fotoforensics.com/ - Fotoforensics
+* https://29a.ch/photo-forensics/ - Forensically
+
 ### Misc
 * https://trailofbits.github.io/ctf/ - CTF Field Guide
 * https://github.com/JohnHammond/ctf-katana - John Hammond's CTF Katana repo
