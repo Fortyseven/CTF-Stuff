@@ -11,6 +11,10 @@
 * http://fotoforensics.com/ - Fotoforensics
 * https://29a.ch/photo-forensics/ - Forensically
 
+## Binary Analysis
+* https://codisec.com/veles/ - Veles (hex, grammar, [gl-based visualization](https://codisec.com/binary-data-visualization/))
+* http://binvis.io - Online binary visualization
+
 ### Misc
 * https://trailofbits.github.io/ctf/ - CTF Field Guide
 * https://github.com/JohnHammond/ctf-katana - John Hammond's CTF Katana repo
